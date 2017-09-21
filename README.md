@@ -1,6 +1,11 @@
 # Demo script for Git/GitHub.com from Meeting on 9/20/2017
 
+Create a new folder on the disk
+
 	mkdir <foldername>
+
+Change directory
+
 	cd <foldername>
 	touch <filename>
 	edit <filename> - add text line to <filename>
@@ -28,4 +33,4 @@
 	edit <filename> - manually fix merge
 	git add <filename>
 	git commit -m 'fixed merge conflict'
-	
+
