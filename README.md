@@ -2,12 +2,18 @@
 
 Create a new folder on the disk
 
-```mkdir <foldername>```
+	mkdir <foldername>
 
-Change directory
+Change directory to make it the current folder
 
 	cd <foldername>
+
+Create a file in the folder
+
 	touch <filename>
+
+Edit the new file adding a line: `Production v1.0`
+
 	edit <filename> - add text line to <filename>
 	save <filename>
 	git init
