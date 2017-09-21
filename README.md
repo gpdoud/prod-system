@@ -2,7 +2,7 @@
 
 Create a new folder on the disk
 
-	mkdir <foldername>
+```mkdir <foldername>```
 
 Change directory
 
